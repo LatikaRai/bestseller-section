@@ -1,0 +1,15 @@
+@font-face {
+    font-family: Alliance;
+    src: url(./alliance-plattsemibold.BnL3k3HW.ttf);
+}
+.page1 h1{
+    font-weight: 999;
+    font-stretch: 260%;
+}
+.slide {
+    transition: width 0.3s ease;
+}
+.bestseller {
+    display: flex;
+    align-items: stretch;
+}
